@@ -1,0 +1,7 @@
+
+model/
+data/
+downloaded/
+fastText/
+.DS_Store
+.ipynb_checkpoints
